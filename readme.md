@@ -12,4 +12,4 @@
 
 5. git log O git log --online: Lista los commits del proyecto
 
-- El archivo .gitignore es para que agreges archivos del proyecto el cual no le vas a dar seguimiento
+- El archivo .gitignore es para que agregues archivos del proyecto el cual no le vas a dar seguimiento . Pero tienes que hacer eso antes de que modifiques el archivo , osea antes de que lo comitees todo eso , puede ir contenido y todo y ahi ya le quitas seguimiento pero una vez que lo comitees o modifiques no funcionara
