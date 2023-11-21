@@ -1,4 +1,6 @@
-Tienes que poner git init solo en el proyecto que esta utilizando actualmente , no en el escritorio no en otro aldo , solo en la carpeta del proyecto . Solo se ejecuta una vez por proyecto
+## COMANDOS GIT
+
+- Tienes que poner git init solo en el proyecto que esta utilizando actualmente , no en el escritorio no en otro aldo , solo en la carpeta del proyecto . Solo se ejecuta una vez por proyecto
 
 1. git init : Inicializa repositorio git
 
