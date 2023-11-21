@@ -11,3 +11,5 @@
 4. git commit -m "message": Hace un punto en el ciclo de vida del proyecto , se le pone mensaje para definir lo que se hizo
 
 5. git log O git log --online: Lista los commits del proyecto
+
+- El archivo .gitignore es para que agreges archivos del proyecto el cual no le vas a dar seguimiento
