@@ -14,6 +14,6 @@
 ## FLUJO TRABAJO GIT
 
 1. git init
-2. git add .
-3. git commit -m "message"
-4. git push -u origin nombrerama
+2. git add . (working directory => staging area)
+3. git commit -m "message" (staging area => repository)
+4. git push -u origin nombrerama (reposotory => GitHub)
